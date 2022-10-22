@@ -1,33 +1,49 @@
 #include <Arduino.h>
+#include <ESP8266Wifi.h>
+#include "DHT.h"
+#include <Adafruit_Sensor.h>
 
-int sensor = A0;
+#define DHTPIN 4
+#define DHTTYPE DHT11
+
+DHT dht(DHTPIN, DHTTYPE);
+
+int sensor_solo = A0;
 int rele = 5;
-float umidade = 4;
 int estadoSensor;
-float estadoUmidade;
+float temperatura;
+float umidade;
 
 void setup() {
-  pinMode(sensor, INPUT);
-  pinMode(umidade, INPUT);
-  pinMode(rele, OUTPUT);
   Serial.begin(9600);
+  delay(50);
+  dht.begin();
+  pinMode(sensor_solo, INPUT);
+  pinMode(umidade, DHT11);
+  pinMode(rele, OUTPUT);
 
 }
 
 void loop() {
-  estadoSensor = analogRead(sensor);
-  // estadoUmidade = digitalRead(umidade);
+ estadoSensor = analogRead(sensor_solo);
   Serial.println(estadoSensor);
-  // Serial.println(umidade);
+  temperatura = dht.readTemperature();
+  umidade = dht.readHumidity();
+  Serial.print("Temperatura: ");
+  Serial.print(temperatura);
+  Serial.println(" ºC");
+  Serial.print("Umidade: ");
+  Serial.print(umidade);
+  Serial.println(" %");
 
-  delay(500);
+  delay(1000);
 
   if (estadoSensor > 928) {
     digitalWrite(rele, LOW);
     delay(10000);
     digitalWrite(rele, HIGH);
   }
-  if (estadoSensor > 832) {
+  if ((estadoSensor > 832) || ((temperatura > 60) && (umidade < 30))) {
     digitalWrite(rele, LOW);
     delay(5000);
     digitalWrite(rele, HIGH);
