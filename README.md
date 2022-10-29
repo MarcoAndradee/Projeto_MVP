@@ -20,7 +20,7 @@ Projeto de desenvolvimento de um Sistema de Irrigação Automático, com o objet
   <img height="200em" src="https://http2.mlstatic.com/D_NQ_NP_890118-MLB49577081365_042022-W.jpg">
 </div>
 
-:black_circle: **Válvula Solenoide para Água** - Trata-se de um mecanismo eletrônico que pode ser aplicado em diversos projetos, essa válvula possui internamente uma bobina em formato cilíndrico e posicionamento de 180º em relação a entrada e saída de água. A seguir temos uma imagem do solenóide:
+:black_circle: **Válvula Solenoide para Água** - Trata-se de um mecanismo eletrônico que pode ser aplicado em diversos projetos, essa válvula possui internamente uma bobina em formato cilíndrico e posicionamento de 180º em relação a entrada e saída de água. A seguir temos uma imagem do solenoide:
 <div align=center>
  <a href="https://github.com/MarcoAndradee">
   <img height="200em" src="https://www.multipecas.curitiba.br/loja/img/prod/valvula-solenoide-3-4q-3-4q-180-graus-127vac-va04_4343.jpg">
