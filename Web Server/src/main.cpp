@@ -36,7 +36,7 @@ const char index_html[] PROGMEM = R"rawliteral(
 <!DOCTYPE HTML><html>
 <head>
   <title>Web Server</title>
-  <h3>Prof. Rafael Barbosa</h3>
+  <h3>Web Server - Sistema de Irrigação Automático</h3>
   <meta name="viewport" content="width=device-width, initial-scale=1"; charset=utf-8>
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.2.0/css/all.css">
   <link rel="icon" href="data:,">

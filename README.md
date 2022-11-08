@@ -1,9 +1,27 @@
 # Sistema de Irrigação Automático :cloud_with_rain:
 Projeto de desenvolvimento de um Sistema de Irrigação Automático, com o objetivo de automatizar o processo de irrigação de pequenas áreas. **Desenvolvedores:** Cassiano Prediger, Roni Eduardo Peroni e Marco Antônio Andrade :nerd_face:
+<div align=center>
+ <a href="https://github.com/MarcoAndradee">
+  <img height="200em" src="https://media1.giphy.com/media/VwjRf92moBypy4Sqwd/giphy.gif?cid=ecf05e47myg3v9g531b2d6owy51gkdydj9ck64ntsxew2ad1&rid=giphy.gif&ct=g">
+</div>
 
+
+  
 # Ferramentas utilizadas no desenvolvimento:
-:black_circle: **NodeMCU ESP8266** - é uma placa de desenvolvimento que combina o chip ESP8266, uma interface usb-serial e um regulador de tensão 3.3V. A programação pode ser feita usando LUA ou a IDE do Arduino, utilizando a comunicação via cabo micro-usb. A seguir temos uma imagem da placa:
+:black_circle: **NodeMCU ESP8266** - É uma placa de desenvolvimento que combina o chip ESP8266, uma interface usb-serial e um regulador de tensão 3.3V. A programação pode ser feita usando LUA ou a IDE do Arduino, utilizando a comunicação via cabo micro-usb. A seguir temos uma imagem da placa:
 <div align=center>
  <a href="https://github.com/MarcoAndradee">
   <img height="200em" src="https://curtocircuito.com.br/pub/media/catalog/product/cache/ebf77fb58d795a2dbe3218c301c821c6/n/o/nodemcu_v3_-_esp8266_-_ch340_1.jpg">
+</div>
+
+:black_circle: **Relé 3V** - O módulo relé 3V é um componente eletrônico utilizado para acionar e desacionar cargas. O seu funcionamento é simples. Quando uma corrente circula pela bobina do relé, ele gera um campo eletromagnético que atrai o contato para fechar o circuito. Na imagem a seguir é possível identificar o modelo do módulo relé 3V:
+<div align=center>
+ <a href="https://github.com/MarcoAndradee">
+  <img height="200em" src="https://http2.mlstatic.com/D_NQ_NP_890118-MLB49577081365_042022-W.jpg">
+</div>
+
+:black_circle: **Válvula Solenoide para Água** - Trata-se de um mecanismo eletrônico que pode ser aplicado em diversos projetos, essa válvula possui internamente uma bobina em formato cilíndrico e posicionamento de 180º em relação a entrada e saída de água. A seguir temos uma imagem do solenoide:
+<div align=center>
+ <a href="https://github.com/MarcoAndradee">
+  <img height="200em" src="https://www.multipecas.curitiba.br/loja/img/prod/valvula-solenoide-3-4q-3-4q-180-graus-127vac-va04_4343.jpg">
 </div>
