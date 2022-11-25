@@ -37,3 +37,6 @@ Projeto de desenvolvimento de um Sistema de Irrigação Automático, com o objet
  <a href="https://github.com/MarcoAndradee">
   <img height="200em" src="https://cdn.awsli.com.br/600x700/468/468162/produto/19414371/1ceaf2d245.jpg">
 </div>
+
+# Como funciona:
+Desenvolvemos o código em C++, HTML, CSS e JavaScript, utilizando a plataforma VSCode. 
