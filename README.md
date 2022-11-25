@@ -1,5 +1,5 @@
 # Sistema de Irrigação Automático :cloud_with_rain:
-Projeto de desenvolvimento de um Sistema de Irrigação Automático, com o objetivo de automatizar o processo de irrigação de pequenas áreas. **Desenvolvedores:** Cassiano Prediger, Roni Eduardo Peroni e Marco Antônio Andrade :nerd_face:
+Projeto de desenvolvimento de um Sistema de Irrigação Automático, com o objetivo de automatizar o processo de irrigação de pequenas áreas. **Desenvolvedores:** Cassiano Prediger, Roni Eduardo Peroni e Marco Antônio Andrade, acadêmicos do curso de Sistemas de Informação da Universidade Unimater de Pato Branco (PR) :nerd_face:
 <div align=center>
  <a href="https://github.com/MarcoAndradee">
   <img height="200em" src="https://media1.giphy.com/media/VwjRf92moBypy4Sqwd/giphy.gif?cid=ecf05e47myg3v9g531b2d6owy51gkdydj9ck64ntsxew2ad1&rid=giphy.gif&ct=g">
