@@ -23,7 +23,7 @@ Projeto de desenvolvimento de um Sistema de Irrigação Automático, com o objet
 :black_circle: **Válvula Solenoide para Água** - Trata-se de um mecanismo eletrônico que pode ser aplicado em diversos projetos, essa válvula possui internamente uma bobina em formato cilíndrico e posicionamento de 180º em relação a entrada e saída de água. A seguir temos uma imagem do solenoide:
 <div align=center>
  <a href="https://github.com/MarcoAndradee">
-  <img height="200em" src="https://www.multipecas.curitiba.br/loja/img/prod/valvula-solenoide-3-4q-3-4q-180-graus-127vac-va04_4343.jpg">
+  <img height="200em" src="https://images.tcdn.com.br/img/img_prod/679014/valvula_solenoide_de_agua_emicol_127v_4485_1_26266f28524dd3a1c30d14b683eba9fb.jpg">
 </div>
 
 :black_circle: **Sensor de Temperatura e Umidade DHT11** - O sensor DHT11 é um sensor de temperatura e umidade com uma sinal digital em sua saída. Sua tecnologia garante excelente estabilidade e confiabilidade. Um microcontrolador de alta performance de 8 bits garante isto no encapsulamento do módulo. Este sensor inclui um elemento resistivo do tipo NTC que faz a medição da temperatura. Possui excelente qualidade, resposta rápida, habilidade de anti-interferência e vantagens antes só encontradas em dispositivos de alto custo. Na imagem a seguir é possível identificar o modelo do sensor:
