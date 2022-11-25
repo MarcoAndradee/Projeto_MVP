@@ -7,7 +7,7 @@ Projeto de desenvolvimento de um Sistema de Irrigação Automático, com o objet
 
 
   
-# Ferramentas utilizadas no desenvolvimento:
+# Componentes utilizados no desenvolvimento:
 :black_circle: **NodeMCU ESP8266** - É uma placa de desenvolvimento que combina o chip ESP8266, uma interface usb-serial e um regulador de tensão 3.3V. A programação pode ser feita usando LUA ou a IDE do Arduino, utilizando a comunicação via cabo micro-usb. A seguir temos uma imagem da placa:
 <div align=center>
  <a href="https://github.com/MarcoAndradee">
