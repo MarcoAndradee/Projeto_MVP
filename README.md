@@ -41,5 +41,5 @@ Projeto de desenvolvimento de um Sistema de Irrigação Automático, com o objet
 # Como funciona:
 <div align=center>
  <a href="https://github.com/MarcoAndradee">
- <img height="200em" src="./assets/img/WebServer.gif">
+ <img height="200em" src="./Servidor Web/assets/img/WebServer.gif">
 </div>
