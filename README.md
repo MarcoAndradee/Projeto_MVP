@@ -38,7 +38,7 @@ Projeto de desenvolvimento de um Sistema de Irrigação Automático, com o objet
   <img height="200em" src="https://cdn.awsli.com.br/600x700/468/468162/produto/19414371/1ceaf2d245.jpg">
 </div>
 
-# Como funciona:
+# Esquema do Projeto:
 <div align=center>
  <a href="https://github.com/MarcoAndradee">
  <img height="500em" src="./Servidor Web/assets/img/WebServer.gif">
